@@ -8,8 +8,6 @@
   <!-- 🔥 Profile Views + Stats -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Krish529-beep&style=for-the-badge&color=red"/>
-    <img src="https://img.shields.io/github/followers/Krish529-beep?style=for-the-badge&color=blue"/>
-    <img src="https://img.shields.io/github/stars/Krish529-beep?affiliations=OWNER&style=for-the-badge&color=yellow"/>
   </p>
 </div>
 
