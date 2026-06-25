@@ -1,98 +1,188 @@
 <div align="center">
-  <img src="https://github.com/Krish529-beep/Krish_Brahmbhatt/blob/main/assests/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%">
 
-  <h1>Hi, I'm Krish Brahmbhatt </h1>
-  <h3>Software Engineer (Full Stack) | AI Enthusiast | Computer Engineering Student</h3>
-  <p><em>Skilled in building scalable web applications and exploring data science/machine learning.</em></p>
+```bash
+$ whoami
+```
 
-  <!-- 🔥 Profile Views + Stats -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Krish529-beep&style=for-the-badge&color=red"/>
-  </p>
+# KRISH BRAHMBHATT
+
+### `building things that ship > things that slide`
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Currently+shipping+at+Xorvest+%E2%80%94+Crypto+%26+Algo+Trading;170%2B+LeetCode+%7C+AWS+Certified+%7C+Top+1%25+Gujarat+HSC;Open+to+SDE+roles+%E2%80%94+product+%7C+AI-focused)
+
+<img src="https://komarev.com/ghpvc/?username=Brahmbhatt-Krish&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS"/>
+
 </div>
 
----
+<br>
 
-### 👨‍💻 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
--  **Computer Engineering** student (Expected Graduation: June 2027).
--  Actively building projects using the **MERN stack**, **Python**, and modern **AI/ML** frameworks.
--  Currently seeking Software Engineering / Full Stack **internship opportunities for Summer 2027**.
--  Reach out to me: **[krish.dev.404@gmail.com](mailto:krish.dev.404@gmail.com)**
--  Check out my complete portfolio at **[portfolio1-eta-swart.vercel.app](https://portfolio1-eta-swart.vercel.app/)**
+### ⚡ `cat about.json`
 
----
+```json
+{
+  "name": "Krish Brahmbhatt",
+  "role": "Software Developer — Full Stack",
+  "location": "Vadodara, Gujarat, India",
+  "education": "B.E. Computer Engineering @ SVIT, GTU (Expected May 2027)",
+  "cgpa": "8.5 / 10",
 
-<h3 align="center">🛠️ My Versatile Tech Stack</h3>
+  "current": {
+    "company": "Xorvest",
+    "role": "Software Developer Intern",
+    "since": "May 2026",
+    "highlights": [
+      "unified REST API layer across 30+ crypto exchanges",
+      "structured logging across 12 live data feeds",
+      "token-based auth + request signing for order execution"
+    ]
+  },
 
-<p align="center">
-  <strong>Languages & Frontend</strong><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-</p>
+  "previously": {
+    "company": "NakulaLaundry (Freelance)",
+    "role": "Full Stack Developer",
+    "duration": "Dec 2025 – Jan 2026",
+    "shipped": "React.js booking platform + admin dashboard, RBAC, real-time sync"
+  },
 
-<p align="center">
-  <strong>Backend & Databases</strong><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nestjs" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=appwrite" width="40"/></a>
-</p>
+  "looking_for": "Software Engineer role — product-based or AI-focused company"
+}
+```
 
-<p align="center">
-  <strong>AI, Data Science & DevOps</strong><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
-</p>
+</td>
 
----
+<td width="40%" valign="top">
 
-### 🚀 Key Projects
+### 📡 `ping --stats`
 
-#### 1️⃣ HireSense: AI-Powered Interview Preparation Platform
-A comprehensive full-stack application that transforms job descriptions and resumes into actionable, role-specific preparation plans. Engineered features including structured AI report generation, skill-gap analysis, and custom resume PDF exports.
-* **Tech Stack:** React, Vite, Node.js, Express, MongoDB, Google GenAI
-* 🔗 **[View Repository](https://github.com/Krish529-beep/HireSense)**
+<img src="https://github-readme-stats.vercel.app/api?username=Brahmbhatt-Krish&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 
-#### 2️⃣ RAG AI Teaching Assistant
-A local Retrieval-Augmented Generation (RAG) system built to query video course content. Developed a robust data pipeline to transcribe videos, generate high-dimensional vector embeddings, and utilize local LLMs to answer queries with exact video timestamps.
-* **Tech Stack:** Python, OpenAI Whisper, Ollama (Llama 3.2), Scikit-Learn, Pandas
-* 🔗 **[View Repository](https://github.com/Krish529-beep/RAG-based-AI-Teaching_Assistant)**
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brahmbhatt-Krish&theme=synthwave&hide_border=true" width="100%"/>
+
+<br>
+
+<img src="https://leetcard.jacoblin.cool/Krish_2326?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="center">🌐 Let's Connect</h3>
+### 🧬 `tech --stack --verbose`
 
 <p align="center">
-  <a href="https://linkedin.com/in/Krish Brahmbhatt" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Krish529-beep" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Krish_2326" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="mailto:krish.dev.404@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_kris.h23" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=py,js,java,ts" />
 </p>
+
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
+</p>
+
+<p align="center">
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+<p align="center">
+  <b>Data & Infra</b><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite,docker,aws,git,postman" />
+</p>
+
+<p align="center">
+  <b>AI / ML</b><br>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/00FF9C" width="48"/>
+</p>
+
+---
+
+### 🛰️ `ls ./projects --featured`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+**📚 RAG AI Teaching Assistant**
+
+<sub>Semantic video search over lectures</sub>
+
+4-stage RAG pipeline — FFmpeg + Whisper large-v2 transcription, Ollama BGE-M3 embeddings, cosine-similarity retrieval, local Llama 3.2 inference to kill hallucinations.
+
+`Python · Whisper · Ollama · Scikit-learn`
+
+[**Source →**](https://github.com/Brahmbhatt-Krish/RAG-based-AI-Teaching_Assistant)
+
+</td>
+
+<td width="33%" valign="top">
+
+**🧠 HireSense**
+
+<sub>AI-powered hiring platform</sub>
+
+Parses resumes, auto-generates interview reports via Gemini API with Zod-validated structured output. PDF export through Puppeteer, JWT + bcrypt secured Express backend.
+
+`React · Node · MongoDB · Gemini API`
+
+[**Live →**](https://hiresense.vercel.app) • [**Source →**](https://github.com/Brahmbhatt-Krish/HireSense)
+
+</td>
+
+<td width="33%" valign="top">
+
+**⚔️ CodeArena**
+
+<sub>LeetCode tracker + live battles</sub>
+
+500+ active users tracking progress, real-time competitive coding battles via Socket.io with live leaderboards, auto-scraped LeetCode stats visualized with Chart.js.
+
+`React · Node · Socket.io · OAuth 2.0`
+
+[**Live →**](https://huggingface.co/spaces/Brahmbhatt-Krish/CodeArena) • [**Source →**](https://github.com/Brahmbhatt-Krish/CodeArena)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🎯 `grep -i "wins" achievements.log`
+
+| 🏆 | Achievement |
+|:--:|-------------|
+| 🥇 | Top 1% statewide — Gujarat HSC Board Examination, 2023 |
+| 🧩 | 170+ LeetCode problems solved |
+| ☁️ | AWS Academy Cloud Foundations Certified |
+| 📊 | Data Science Course — 25+ NumPy, Pandas & Matplotlib Exercises |
+| 💼 | Software Developer Intern @ Xorvest |
+
+---
+
+<div align="center">
+
+### 🔗 `connect --no-spam`
+
+<a href="https://linkedin.com/in/krishbrahmbhatt23"><img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="https://github.com/Brahmbhatt-Krish"><img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=000000"/></a>
+<a href="https://leetcode.com/u/Krish_2326/"><img src="https://img.shields.io/badge/LeetCode-00FF9C?style=for-the-badge&logo=leetcode&logoColor=000000"/></a>
+<a href="https://krishbrahmbhatt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
+<a href="mailto:krish.dev.404@gmail.com"><img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+
+<br><br>
+
+```bash
+$ echo "still compiling... will be done by graduation (2027)"
+```
+
+</div>
