@@ -154,7 +154,7 @@ tracking progress, real-time competitive coding battles via Socket.io with live 
 
 </tr>
 </table>
----
+
 
 ### 🎯 `grep -i "wins" achievements.log`
 
