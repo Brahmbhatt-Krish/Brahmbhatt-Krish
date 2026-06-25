@@ -10,7 +10,7 @@ $ whoami
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Currently+shipping+at+Xorvest+%E2%80%94+Crypto+%26+Algo+Trading;170%2B+LeetCode+%7C+AWS+Certified+%7C+Top+1%25+Gujarat+HSC;Open+to+SDE+roles+%E2%80%94+product+%7C+AI-focused)
 
-<img src="https://komarev.com/ghpvc/?username=Brahmbhatt-Krish&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Brahmbhatt-Krish&style=for-the-badge&color=880808&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -134,7 +134,7 @@ Parses resumes, auto-generates interview reports via Gemini API with Zod-validat
 
 `React · Node · MongoDB · Gemini API`
 
-[**Live →**](https://hiresense.vercel.app) • [**Source →**](https://github.com/Brahmbhatt-Krish/HireSense)
+[**Live →**](https://hire-sense-swart.vercel.app/login) • [**Source →**](https://github.com/Brahmbhatt-Krish/HireSense)
 
 </td>
 
@@ -144,17 +144,16 @@ Parses resumes, auto-generates interview reports via Gemini API with Zod-validat
 
 <sub>LeetCode tracker + live battles</sub>
 
-500+ active users tracking progress, real-time competitive coding battles via Socket.io with live leaderboards, auto-scraped LeetCode stats visualized with Chart.js.
+tracking progress, real-time competitive coding battles via Socket.io with live leaderboards, auto-scraped LeetCode stats visualized with Chart.js.
 
 `React · Node · Socket.io · OAuth 2.0`
 
-[**Live →**](https://huggingface.co/spaces/Brahmbhatt-Krish/CodeArena) • [**Source →**](https://github.com/Brahmbhatt-Krish/CodeArena)
+[**Live →**](https://krish2323-codearena.hf.space/) • [**Source →**](https://github.com/Brahmbhatt-Krish/CodeArena)
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ### 🎯 `grep -i "wins" achievements.log`
@@ -168,21 +167,21 @@ Parses resumes, auto-generates interview reports via Gemini API with Zod-validat
 | 💼 | Software Developer Intern @ Xorvest |
 
 ---
-
 <div align="center">
 
 ### 🔗 `connect --no-spam`
 
-<a href="https://linkedin.com/in/krishbrahmbhatt23"><img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
-<a href="https://github.com/Brahmbhatt-Krish"><img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=000000"/></a>
-<a href="https://leetcode.com/u/Krish_2326/"><img src="https://img.shields.io/badge/LeetCode-00FF9C?style=for-the-badge&logo=leetcode&logoColor=000000"/></a>
-<a href="https://krishbrahmbhatt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
-<a href="mailto:krish.dev.404@gmail.com"><img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+<a href="https://linkedin.com/in/krishbrahmbhatt23"><img src="https://img.shields.io/badge/LinkedIn-880808?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+<a href="https://github.com/Brahmbhatt-Krish"><img src="https://img.shields.io/badge/GitHub-880808?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="https://leetcode.com/u/Krish_2326/"><img src="https://img.shields.io/badge/LeetCode-880808?style=for-the-badge&logo=leetcode&logoColor=ffffff"/></a>
+<a href="https://krishbrahmbhatt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-880808?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a>
+<a href="mailto:krish.dev.404@gmail.com"><img src="https://img.shields.io/badge/Email-880808?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
 
 <br><br>
 
 ```bash
 $ echo "still compiling... will be done by graduation (2027)"
+
 ```
 
 </div>
