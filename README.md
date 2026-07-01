@@ -16,10 +16,6 @@ $ whoami
 
 <br>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ### ⚡ `cat about.json`
 
 ```json
@@ -52,25 +48,19 @@ $ whoami
 }
 ```
 
-</td>
-
-<td width="40%" valign="top">
+---
 
 ### 📡 `ping --stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brahmbhatt-Krish&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+<div align="center">
 
-<br>
+<img src="https://streak-stats.demolab.com/?user=Brahmbhatt-Krish&theme=synthwave&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brahmbhatt-Krish&theme=synthwave&hide_border=true" width="100%"/>
+<br><br>
 
-<br>
+<img src="https://leetcard.jacoblin.cool/Krish_2326?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="49%"/>
 
-<img src="https://leetcard.jacoblin.cool/Krish_2326?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
