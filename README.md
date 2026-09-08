@@ -11,55 +11,6 @@
 
 <br>
 
-## `$ ./pitch --for`
-
-<sub>Pick one. Each opens the 20-second version for you.</sub>
-
-<details>
-<summary><b>👔 recruiter</b></summary>
-<br>
-
-Computer Engineering student (B.E., SVIT, expected May 2027) targeting **Software Engineer / SDE** roles.
-
-- **Internship:** Software Developer Intern at **Xorvest** (May–July 2026). Built a unified REST API integration layer across **30+ cryptocurrency exchanges**, fixed rate-limit failures with a Token Bucket limiter, designed four-level logging for root-cause debugging.
-- **Freelance:** Full Stack Developer (Dec 2025–present). React / Next.js / Node / Express / MongoDB apps for clients, with JWT auth and Socket.io.
-- **Projects:** a C++ multi-threaded Deep Packet Inspection engine, an AI recruitment platform with schema-validated LLM output, a real-time coding battle platform, and a fully local RAG assistant. Two are live.
-- **Signal:** Top 1% statewide in Gujarat HSC (2023). 170+ LeetCode problems in C++. CGPA 8.65/10.
-
-</details>
-
-<details>
-<summary><b>🧑‍💻 engineer</b></summary>
-<br>
-
-I like the parts that break.
-
-- **Rate limiting:** exchanges were rejecting bursts, so I put a **Token Bucket** limiter in front of the client instead of catching errors after the fact.
-- **Observability:** four-level logging (DEBUG / INFO / WARNING / ERROR) built for end-to-end request traceability, not just printouts.
-- **LLM reliability:** Gemini output goes through a **Zod schema** before it touches the UI. Malformed responses never leak into the product.
-- **Concurrency:** a producer-consumer pipeline in C++ with a **thread-safe queue on mutexes and condition variables**, and **consistent hashing** so each flow's state lives on exactly one worker.
-- **Networking:** classifying traffic by pulling the **TLS SNI** out of the Client Hello.
-
-Start with the [Deep Packet Inspection System](https://github.com/Brahmbhatt-Krish/Deep-Packet-Inspection-System). Then [HireSense](https://github.com/Brahmbhatt-Krish/HireSense) for the LLM validation layer.
-
-</details>
-
-<details>
-<summary><b>🚀 founder</b></summary>
-<br>
-
-I build the whole thing and ship it.
-
-- **Frontend to backend:** React / Next.js on top of Express REST APIs, JWT auth, MongoDB, Socket.io where it needs to be real-time.
-- **AI where it earns its place:** Gemini for structured generation, local Llama 3.2 + Ollama when data should not leave the machine.
-- **Proof:** [HireSense](https://hire-sense-swart.vercel.app/login) and [CodeArena](https://krish2323-codearena.hf.space/) are live right now. Freelance clients have been paying for this since December 2025.
-
-Email: [krish.dev.404@gmail.com](mailto:krish.dev.404@gmail.com)
-
-</details>
-
-<br>
-
 ## About
 
 Most of my work sits in three overlapping areas:
